@@ -1,0 +1,44 @@
+.footer{
+
+    margin-top: 56px ;
+    padding: 48px;
+
+    h3{
+        display: flex;
+        // justify-content: center;
+    }
+
+    h4{
+        display: flex;
+        margin-top: 24px;
+        color: rgb(255, 231, 186) !important;
+    }
+
+    .icons{
+        // justify-content: center;
+        text-align: center;
+        a{
+            font-size: 24px;
+            color: rgb(255, 231, 186) !important;
+
+
+            
+            &:hover{
+                transition: .5s ease-in-out;
+            }
+        }
+    }
+
+    .contact{
+        margin-top: 32px;
+        align-items: center;
+
+
+
+        a{
+            color: rgb(255, 231, 186) !important;
+        }
+    }
+
+
+}

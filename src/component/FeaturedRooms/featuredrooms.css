@@ -1,0 +1,48 @@
+.feature-rooms {
+  margin: 5rem 0;
+  align-content: center;
+}
+.feature-rooms .section-h2 {
+  margin-bottom: 56px;
+}
+.feature-rooms .section-h2 div {
+  width: 8rem;
+  height: 5px;
+  background-color: #af9a7d;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: flex;
+}
+.feature-rooms .box {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.feature-rooms .box figure {
+  display: flex;
+  box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.436);
+  transition: all 0.5s ease-in-out;
+  flex-wrap: wrap;
+  width: 350px;
+  height: 200px;
+  position: relative;
+  display: block;
+  margin: 5px;
+}
+.feature-rooms .box figure img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  display: block;
+}
+.feature-rooms .box figure figcaption {
+  display: block;
+  position: absolute;
+  background-color: rgba(132, 132, 132, 0.8980392157);
+  color: whitesmoke;
+  bottom: 0;
+}
+.feature-rooms .box figure:hover {
+  transition: all 0.5s ease-in-out;
+  box-shadow: 4px 8px 14px rgba(0, 0, 0, 0.825);
+}/*# sourceMappingURL=featuredrooms.css.map */

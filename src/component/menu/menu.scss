@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #efefef;
+
+
+    .navbar-brand{
+        img{
+
+        }
+        span{
+            font-weight:heavy;
+            font-size: 16px;
+        }
+    }
+
+    .navbar-nav{
+        margin-right: 20px;
+
+        a{
+            color: whitesmoke;
+                    
+        &:hover{
+            color: #af9a7d !important;
+        }
+        }
+    }
+}

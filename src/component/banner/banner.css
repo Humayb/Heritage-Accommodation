@@ -1,0 +1,14 @@
+.slider-top .slider-hero {
+  border-radius: 15px;
+  position: relative;
+}
+.slider-top .slider-hero button {
+  position: absolute;
+  z-index: 2;
+}
+.slider-top .slider-hero button:nth-of-type(1) {
+  right: 24px;
+}
+.slider-top .slider-hero button:nth-of-type(2) {
+  left: 24px;
+}/*# sourceMappingURL=banner.css.map */

@@ -1,0 +1,52 @@
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: YekanBakh;
+  font-weight: normal;
+  src: url(./fonts/Yekan\ Bakh\ Fa-En\ 05\ Medium.ttf);
+}
+@font-face {
+  font-family: YekanBakh;
+  font-weight: bold;
+  src: url(./fonts/Yekan\ Bakh\ Fa-En\ 06\ Bold.ttf);
+}
+@font-face {
+  font-family: YekanBakh;
+  font-weight: heavy;
+  src: url(./fonts/Yekan\ Bakh\ Fa-En\ 07\ Heavy.ttf);
+}
+body {
+  font-family: YekanBakh;
+  font-size: 16px;
+  background-color: rgb(245, 245, 245);
+  color: #474747;
+}
+
+h1 {
+  margin: 56px 0;
+  padding: 56px 0;
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: heavy;
+  margin: 10px 0 24px 0;
+}
+
+button {
+  border: none;
+}
+
+
+.container-fluid {
+  overflow-x: hidden;
+}/*# sourceMappingURL=App.css.map */

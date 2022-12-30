@@ -1,0 +1,13 @@
+.search {
+  margin: 56px 0;
+}
+.search .search-items {
+  font-size: 14px;
+  background: #e7e7e7;
+  color: #464646;
+}
+.search .list {
+  margin-top: 5px;
+  flex-wrap: wrap;
+  justify-content: center;
+}/*# sourceMappingURL=searchroom.css.map */

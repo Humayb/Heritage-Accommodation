@@ -1,0 +1,59 @@
+
+.feature-rooms{
+    margin: 5rem 0;
+    align-content: center;
+
+    .section-h2{
+        margin-bottom: 56px;
+
+        div{
+            width: 8rem;
+            height: 5px;
+            background-color: #af9a7d;
+            border-radius: 5px;
+            margin: 0 auto;
+            display: flex;
+        }
+    }
+
+    .box{
+        flex-direction: row;
+        // justify-content:space-around;
+        flex-wrap: wrap;
+        justify-content: center;
+
+
+        figure{
+            display: flex;
+            box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.436);
+            transition: all .5s ease-in-out;
+            flex-wrap: wrap;
+            width: 350px;
+            height: 200px;
+            position: relative;
+            display: block;
+            margin: 5px;
+
+            img{
+                height: 100%;
+                object-fit: cover;
+                display: block;
+            }
+            
+            figcaption{
+                display: block;
+                position: absolute;
+                background-color: #848484e5;
+                color: whitesmoke;
+                bottom:0;
+            }
+    
+            &:hover{
+                transition: all .5s ease-in-out;
+                box-shadow: 4px 8px 14px rgba(0, 0, 0, 0.825);
+            }
+        }
+    }
+
+
+}
