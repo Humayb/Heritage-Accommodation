@@ -11,13 +11,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://user-images.githubusercontent.com/82465022/210060846-aa2b2091-a257-4c98-b262-b4dc1bcbf960.mp4
 
 
-Desktop - Ui website Design 
+**Desktop - Ui website Design** 
 
 ![eghamtghah](https://user-images.githubusercontent.com/82465022/210127773-ef99c5a4-a48c-4232-abb5-19e1ea27e199.png)
 
 
 
-Ui Mobile Design
+**Ui Mobile Design**
+
 ![eghamtghah-mobili](https://user-images.githubusercontent.com/82465022/210127899-88007e4c-66a6-4895-a40f-bb2738e4af97.png)
 
 
