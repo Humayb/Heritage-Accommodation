@@ -1,5 +1,9 @@
 # Getting Started with Create React App
+![view final](https://humayb.github.io/Heritage-Accommodation/)
+- [Demo Project](https://humayb.github.io/Heritage-Accommodation/)
 
+- UI Designer and Developer
+- Technologies Used - Html , CSS , js , React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
