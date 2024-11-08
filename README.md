@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-![view final](https://humayb.github.io/Heritage-Accommodation/)
 - [Demo Project](https://humayb.github.io/Heritage-Accommodation/)
 
 - UI Designer and Developer
